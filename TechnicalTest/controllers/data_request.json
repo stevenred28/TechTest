@@ -1,0 +1,22 @@
+{
+  "TD1": {
+    "number1": 1,
+    "number2": 1
+  },
+  "TD2": {
+    "number1": "",
+    "number2": 0
+  },
+  "TD3": {
+    "number1": 10,
+    "number2": 0
+  },
+  "TD4": {
+    "number1": 10.5,
+    "number2": 11.1
+  },
+  "TD5": {
+    "number1": -5,
+    "number2": -10
+  }
+}
